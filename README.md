@@ -43,11 +43,11 @@ To run the project locally:
 ## Project Structure
 ```
 src
-├── components     # Reusable UI components
+├── components      # Reusable UI components
 ├── pages           # Main application pages
-├── assets          # Images, icons, and other static files
-├── App.js          # Main application logic
-└── index.js        # Entry point for React
+├── public          # Images, JavaScript, CSS, and the index files
+├── assets          # CSS stylesheets, JS libraries, and icons.
+└── models          # PHP classes, CRUD operations for users, properties, and messages
 ```
 
 ## License
