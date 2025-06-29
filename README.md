@@ -1,4 +1,4 @@
-# DEVELOPMENT OF A WEB-BASED APARTMENT RENTAL MARKETPLACE FOR EFFICIENT PROPERTY LISTING AND TENANT ACQUISITION
+# APARTMENT RENTAL MARKETPLACE FOR EFFICIENT PROPERTY LISTING AND TENANT ACQUISITION
 
 A web application designed to allow landlords to list properties and house seekers to search for apartments effortlessly, without the need for an intermediary (House agents).
 
@@ -6,7 +6,7 @@ A web application designed to allow landlords to list properties and house seeke
 - **Search Interface:** A rounded search bar with a search icon for intuitive querying.
 - **Toggleable Drawer:** Provides improved navigation with smooth transitions.
 - **Textual and Visual Guidance:** Offers clear instructions.
-- **Consistent Footer:** Displayed across most pages: `(c) 2025. Matric No: E043396 for Apartment Rental Marketplace.`
+- **Consistent Footer:** Displayed across most pages: `(c) 2025. Matric Number: E043396 for Apartment Rental Marketplace.`
 
 ## Tech Stack
 - **Frontend:** JavaScript, HTML, CSS
