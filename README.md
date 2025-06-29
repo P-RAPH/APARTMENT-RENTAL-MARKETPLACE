@@ -35,10 +35,10 @@ To run the project locally:
    ```
 5. Open [https://ayantunmbi-arm.halveslondon.co.uk](https://ayantunmbi-arm.halveslondon.co.uk) in your browser to access the application.
 
-## Usage
-- **Search Interface:** Enter relevant keywords (e.g., "transcript," "verification") to get guidance on where to go.
-- **Toggleable Drawer:** Click the drawer icon to reveal additional navigation options.
-- **Office Directions:** Responses provide clear textual or visual guidance to guide users effectively.
+## Modules Implemented
+- **User Authentication:** Secure login/registration for landlords and administrators (tenants can search without login).
+- **Search and Filtering:** House seekers can search properties by location, price, and availability.
+- **Messaging:** House seekers can contact landlords directly through the platform.
 
 ## Project Structure
 ```
