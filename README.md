@@ -23,7 +23,7 @@ To run the project locally:
    ```
 2. Navigate to the project folder:
    ```bash
-   cd office_navigation_sys
+   cd apartment_rental_marketplace
    ```
 3. Install dependencies:
    ```bash
